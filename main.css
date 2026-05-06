@@ -44,7 +44,7 @@ body{
   padding: 0 2px;
 }
 
-section{
+.section{
   background: black;
   display: flex;
   justify-content: space-between;
