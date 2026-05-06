@@ -1,0 +1,69 @@
+/* Structure Styles */
+@import url('css/structure/layout.css');
+@import url('css/structure/components.css');
+@import url('css/structure/responsive.css');
+
+/* Page-Specific Styles */
+@import url('css/pages/index.css');
+@import url('css/pages/about.css');
+@import url('css/pages/contact.css');
+
+
+:root{
+  /* ====================
+  Background  Color
+   ==================== */
+   --primary-background-color: #fff;
+   --secondary-background-color: #f7f5f0;
+   --tertiary-background-color: #fbf1d6;
+
+   
+   
+   /* ====================
+  Font Color 
+   ==================== */
+  --font-heading-color: #161616;
+  --font-paragraph-color: #454444;
+}
+
+body{
+  font-family: "Roboto", Arial, sans-serif;
+  font-style: normal;
+}
+
+
+
+
+
+h2{
+  font-size: 48px;
+}
+
+h3{
+  font-size: 40px;
+}
+
+h4{
+  
+}
+
+h5{
+  
+}
+
+h6{
+  
+}
+
+p{
+  font-size: 16px;
+  font-size: 14px;
+}
+
+button{
+  font-size: 18px;
+}
+
+span{
+  font-size: 20px;
+}
