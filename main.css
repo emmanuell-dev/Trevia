@@ -33,37 +33,19 @@ body{
 
 
 
-
-
-h2{
-  font-size: 48px;
+.layout{
+  min-width: 1026px;
+  max-width: 1441px;
 }
 
-h3{
-  font-size: 40px;
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2px;
 }
 
-h4{
-  
-}
-
-h5{
-  
-}
-
-h6{
-  
-}
-
-p{
-  font-size: 16px;
-  font-size: 14px;
-}
-
-button{
-  font-size: 18px;
-}
-
-span{
-  font-size: 20px;
+section{
+  background: black;
+  display: flex;
+  justify-content: space-between;
 }
